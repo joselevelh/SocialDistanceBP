@@ -11,6 +11,7 @@ In light of COVID-19, we have made an electronic version of the popular party ga
 - x6 Reflective Infrared IR Optical Sensor QRB1114 
 
 # Breadboard Diagram 
+Sensors are in numerical order from left to right.\
 Sensor #: (IRLED Pin #, Phototransistor Pin #)
 - Sensor 1: (13, A0)
 - Sensor 2: (12, A1)
