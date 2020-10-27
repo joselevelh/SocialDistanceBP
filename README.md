@@ -11,3 +11,12 @@ In light of COVID-19, we have made an electronic version of the popular party ga
 - x6 Reflective Infrared IR Optical Sensor QRB1114 
 
 # Breadboard Diagram 
+Sensor #: (IRLED Pin #, Phototransistor Pin #)
+- Sensor 1: (13, A0)
+- Sensor 2: (12, A1)
+- Sensor 3: (11, A2)
+- Sensor 4: (10, A3)
+- Sensor 5: (6, A5)
+- Sensor 6: (8, A4)
+
+![](https://github.com/origamiNDroid/SocialDistanceBP/blob/master/breadboardPicture.JPG)
