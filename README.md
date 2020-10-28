@@ -4,6 +4,7 @@ In light of COVID-19, we have made an electronic version of the popular party ga
 [Check Out Our Youtube Video](https://youtu.be/wzSkizOTsnI)
 
 # Hardware Components
+- Jumper cables
 - x1 micro-USB Type B to USB Type A cable 
 - x1 Adafruit ItsyBitsy 32u4 - 5V 16MHz
 - x6 470 Ohm Resistors
